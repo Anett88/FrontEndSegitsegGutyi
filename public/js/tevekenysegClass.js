@@ -1,0 +1,13 @@
+class Tevekenyseg{
+
+    constructor(){
+        
+
+
+
+    }
+
+
+
+
+}
